@@ -699,13 +699,13 @@ button {
 
 .footer-center-side {
   padding-top: 12px;
-  margin-right: 93px;
 }
 
 .footer-right-side {
   display: flex;
   flex-direction: column;
   padding-top: 12px;
+  margin-left: auto;
 }
 
 .undertitle {
@@ -871,6 +871,7 @@ input::placeholder {
 
 .portfolio-list-link {
   color: #000000;
+  width: 370px;
 }
 
 .portfolio-list-title {
